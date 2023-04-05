@@ -14,30 +14,47 @@
   </a>
 </div><br>
 
-<div style="display: inline-block">
-  <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
-  <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<div align="center" style="display: inline-block">
+  <h2>Stacks<h2>
+  <a href="https://github.com/miqueiaspcoelho/EstudosPython" target="_blank">
+    <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
+  
+  <a href="https://github.com/miqueiaspcoelho/Compilador" target="_blank">
+    <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  </a>
+  
+  <a href="https://github.com/miqueiaspcoelho/quiz" target="_blank">
+    <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
+    <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </a>
+  
+  <a href="https://github.com/miqueiaspcoelho/ScoreBotDiscord2.0" target="_blank">
+    <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  </a>
+  
+  <a href="https://github.com/miqueiaspcoelho/jornadadev" target="_blank">
+    <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+  
   <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-          
+  <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
           
 </div>
 
-##
 <div style="display: inline-block">
+  <h2>Contatos<h2/>
   <a  href="https://www.linkedin.com/in/miqu%C3%A9ias-pereira-coelho-8a0071218/" target="_blank">
-    <img width="100" height="30"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img width="110" height="30"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a  href="https://www.instagram.com/mi.queias/" target="_blank">
-    <img width="100" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+    <img width="110" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
   <a/>
 <div/>
 
-##
-### Projetos
+#### Projetos em destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miqueiaspcoelho&repo=jornadadev&theme=dark)](https://github.com/miqueiaspcoelho/jornadadev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miqueiaspcoelho&repo=quiz&theme=dark)](https://github.com/miqueiaspcoelho/quiz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miqueiaspcoelho&repo=ScoreBotDiscord2.0&theme=dark)](https://github.com/miqueiaspcoelho/ScoreBotDiscord2.0)
 
