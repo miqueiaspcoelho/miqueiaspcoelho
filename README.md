@@ -7,9 +7,9 @@
 
 <div style="display: inline-block;">
   <a href="https://github.com/miqueiaspcoelho?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=miqueiaspcoelho&show_icons=true&include_all_commits=false&count_privat=true&theme=dark"
+    <img src="https://github-readme-stats-1jn1onrg6-miqueiaspcoelho.vercel.app/api?username=miqueiaspcoelho&show_icons=true&include_all_commits=false&count_privat=true&theme=dark"
     height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiaspcoelho&layout=compact&theme=dark&langs_count=8"
+    <img src="https://github-readme-stats-1jn1onrg6-miqueiaspcoelho.vercel.app/api/top-langs/?username=miqueiaspcoelho&layout=compact&theme=dark&langs_count=8"
     height="180em"/>
   </a>
 </div><br>
@@ -54,7 +54,7 @@
 <div/>
 
 #### Projetos em destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miqueiaspcoelho&repo=jornadadev&theme=dark)](https://github.com/miqueiaspcoelho/jornadadev)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miqueiaspcoelho&repo=quiz&theme=dark)](https://github.com/miqueiaspcoelho/quiz)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miqueiaspcoelho&repo=ScoreBotDiscord2.0&theme=dark)](https://github.com/miqueiaspcoelho/ScoreBotDiscord2.0)
+[![Readme Card](https://github-readme-stats-1jn1onrg6-miqueiaspcoelho.vercel.app/api/pin/?username=miqueiaspcoelho&repo=jornadadev&theme=dark)](https://github.com/miqueiaspcoelho/jornadadev)
+[![Readme Card](https://github-readme-stats-1jn1onrg6-miqueiaspcoelho.vercel.app/api/pin/?username=miqueiaspcoelho&repo=quiz&theme=dark)](https://github.com/miqueiaspcoelho/quiz)
+[![Readme Card](https://github-readme-stats-1jn1onrg6-miqueiaspcoelho.vercel.app/api/pin/?username=miqueiaspcoelho&repo=ScoreBotDiscord2.0&theme=dark)](https://github.com/miqueiaspcoelho/ScoreBotDiscord2.0)
 
