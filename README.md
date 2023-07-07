@@ -1,9 +1,10 @@
 ### Iai, tudo beleza? Chega mais, deixa eu me apresentar
 
 - Atualmente estou trabalhando em projetos de desenvolvimento em parceria com amigos com a pretensão de abrir uma startup.
+- Em 18 de maio desse ano comecei a atuar como técnico em informática por uma empresa que presta serviços para hospitais
 - Meus estudos estão direcionados para a área de front-end, iniciando por: html, css, javaScript e react.
 - Sou formado em Ciência e Tecnologia pela Universidade Federal do Maranhão (UFMA) e estou na reta final de Engenharia da Computação também pela UFMA.
-- Amante de tecnologia, entusiasta de música e jogador de futebol nas horas vagas.
+- Amante de tecnologia, entusiasta de música, jogador de futebol nas horas vagas, e programador de robôs.
 
 <div style="display: inline-block;">
   <a href="https://github.com/miqueiaspcoelho?tab=repositories">
